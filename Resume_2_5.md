@@ -41,8 +41,8 @@ Proficient R Developer with extensive experience in implementing data-centric so
 
 - Programming: **R**, **Python**, **SQL**, **Go**, **HTML** 
 - Tools/Technologies: **R Shiny**, **R Markdown**, **Git**, **RStudio**, **Jupyter**, **SQLite**, **Spyder**, **Trello**  
-- Industry Knowledge: **Data Science**, **Data Analysis**, **Statistics**
-- R Packages/Modules: **shiny**, **shinyWidgets** **blogdown**, **tidyverse**, **crosstalk**, **DT**, **htmltools**, **plotly**, **leaflet**, **knitr**, **reactable**  
+- Industry Knowledge: **Data Science**, **Data Analysis**, **Statistics**, **Web Development**
+- R Packages/Modules: **shiny**, **shinyWidgets**, **blogdown**, **tidyverse**, **crosstalk**, **DT**, **htmltools**, **plotly**, **leaflet**, **knitr**, **reactable**  
 - Other Skills: **Regular Expressions**, **Data Wrangling**, **Data Visualization**, **Unit Testing**, **Package Development**, **Exploratory Data Analysis**, **Data Validation**
 - Soft skills: **Analytical Skills**, **Critical Thinking**, **Teamwork**, **Communication**
 
@@ -56,17 +56,12 @@ Obafemi Awolowo University, Ile-Ife, Nigeria
 - R Programming, The Johns Hopkins University - Dec, 2020 [[Verify]](https://www.coursera.org/account/accomplishments/verify/E2AF2R632Z2S?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
 - R (Intermediate), HackerRank - Jul, 2021 [[Verify]](https://www.hackerrank.com/certificates/f8006c3f3635)
 - SQL for Data Science, University of California, Davis - Jan, 2021 [[Verify]](https://www.coursera.org/account/accomplishments/verify/D6XQBUEZ4YR6?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
-- Getting and Cleaning Data, The Johns Hopkins University - Feb, 2021 [[Verify]](https://www.coursera.org/account/accomplishments/verify/393DD79E5C36?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
 - Exploratory Data Analysis, The Johns Hopkins University - Jul, 2021 [[Verify]](https://www.coursera.org/account/accomplishments/verify/S84B68VZ5DZP?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
 - Data Science Maths Skills, Duke University - Mar, 2021 [[Verify]](https://www.coursera.org/account/accomplishments/verify/YJ8TDU33JGJ7?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
 
-<h3><u span style = 'color: #005090'>OTHER PERSONAL PROJECTS</u></h3>
+<h3><u span style = 'color: #005090'>PERSONAL PROJECTS</u></h3>
 
-- **Generating a tidy dataset from messy training and test datasets obtained from an experiment** [[Github]](https://github.com/DISCRETEboi/HumanActivityRecognition)
+**RESUME BUILDER WEBSITE DEVELOPMENT USING R SHINY BASED FRAMEWORK** [[Github]](https://github.com/DISCRETEboi/resume_guide)
 
-Skills utilized - R programming, statistical analysis, tidyverse, regular expression, Git/github, data wrangling, data cleaning
-
-- **Analysing a data on scientific papers published by various authors and journals**  [[Github]](https://github.com/DISCRETEboi/Oke)
-
-Skills utilized - R programming, data analysis, data wrangling, tidyverse
+<div style='padding-left:20px'>Skills utilized - R Shiny, R Markdown, UI/UX design, Web development</div>
 
