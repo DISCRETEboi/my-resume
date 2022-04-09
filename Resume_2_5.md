@@ -1,7 +1,5 @@
 <h1><center span style = 'color: #005090'>ABDUL-MATEEN QAMARDEEN</center></h1>
 
----
-
 - +234-704-998-6998
 - [abdulmateen.a.q@gmail.com](mailto:abdulmateenqamardeen@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/abdulmateenqamardeen/)
@@ -23,19 +21,16 @@ Proficient R Developer with extensive experience in implementing data-centric so
 - Wrote R scripts to automate information extraction from large R codebases e.g. SQL queries extraction from commands in R scripts.
 - Developed unit tests for existing R packages.
 - Implemented the use of Git & GitHub for continuous integration & delivery.
-- Developed multiple data analysis reports presented in R Markdown.
+- Developed multiple data analysis reports, presented in R Markdown.
   
 <b style='color:#005090'>QA Analyst & Website Developer</b>
 <span style='float:right;font-style:italic'>Feb. 2021 - Jun. 2021</span>
-
-- Wrote and optimized test cases for data validation to maximize success of manual software testing with consistent, thorough approaches.  
-- Reviewed project requirements to uncover bugs and vulnerabilities, solving robustness issues.  
+ 
 - Planned and devised cohesive test plans for a database pipeline using the R programming language.
-- Determined database integrity by a check of correspondence between the database and the original data source.
-- Implemented the use of Trello board tools to illustrate project features and requirements.
-- Configured Hugo static website generator and blogdown in the R programming environment for a website framework
-- Developed R Markdown & HTML documents for the individual pages in the website
-- Deployed the website to Netlify for availability on the web
+- Maintained database integrity by continuously checking for correspondence between the database and the original data source.
+- Configured Hugo static website generator and blogdown in the R programming environment for a documentation website framework.
+- Developed R Markdown & HTML documents for the pages of the website.
+- Deployed the website to Netlify for availability on the web.
 
 <h3><u span style = 'color: #005090'>SKILLS</u></h3>
 
