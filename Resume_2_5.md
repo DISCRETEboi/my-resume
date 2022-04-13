@@ -65,5 +65,4 @@ Obafemi Awolowo University, Ile-Ife, Nigeria
 
 **RESUME BUILDER WEBSITE DEVELOPMENT USING R SHINY BASED FRAMEWORK** [[Github]](https://github.com/DISCRETEboi/resume_guide)
 
-<div style='padding-left:20px'>Skills utilized - R Shiny, R Markdown, UI/UX design, Web development</div>
-
+<span style='padding-left:20px'>Skills utilized - R Shiny, R Markdown, UI/UX design, Web development</span>
