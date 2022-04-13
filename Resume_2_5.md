@@ -1,10 +1,12 @@
-<h1><center span style = 'color: #005090'>ABDUL-MATEEN QAMARDEEN</center></h1>
+<h1><center style = 'color: #005090'>ABDUL-MATEEN QAMARDEEN</center></h1>
 
-- +234-704-998-6998
-- [abdulmateen.a.q@gmail.com](mailto:abdulmateenqamardeen@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/abdulmateenqamardeen/)
-- [Github](https://github.com/DISCRETEboi)
-- Osun, Nigeria
+<div style="text-align:center">
++2347049986998 &bull
+<a href="mailto:abdulmateen.a.q@gmail.com">abdulmateen.a.q@gmail.com</a> &bull
+<a href="https://www.linkedin.com/in/abdulmateenqamardeen/">LinkedIn</a> &bull
+<a href="https://github.com/DISCRETEboi/">Github</a> &bull
+Lagos, Nigeria
+</div>
 
 <h3><u span style = 'color: #005090'>SUMMARY</u></h3>
 
@@ -12,7 +14,7 @@ Proficient R Developer with extensive experience in implementing data-centric so
 
 <h3><u style = 'color:#005090'>INDUSTRY EXPERIENCE (FREELANCE)</u></h3>
   
-<b style='color:#005090'>R Developer</b>
+<b>R Developer</b>
 <span style='float:right;font-style:italic'>Feb. 2021 - Present</span>
 
 - Developed R packages from sparse scripts and documentation files.
@@ -23,7 +25,7 @@ Proficient R Developer with extensive experience in implementing data-centric so
 - Implemented the use of Git & GitHub for continuous integration & delivery.
 - Developed multiple data analysis reports, presented in R Markdown.
   
-<b style='color:#005090'>QA Analyst & Website Developer</b>
+<b>QA Analyst & Website Developer</b>
 <span style='float:right;font-style:italic'>Feb. 2021 - Jun. 2021</span>
  
 - Planned and devised cohesive test plans for a database pipeline using the R programming language.
@@ -34,12 +36,14 @@ Proficient R Developer with extensive experience in implementing data-centric so
 
 <h3><u span style = 'color: #005090'>SKILLS</u></h3>
 
-- Programming: **R**, **Python**, **SQL**, **Go**, **HTML** 
-- Tools/Technologies: **R Shiny**, **R Markdown**, **Git**, **RStudio**, **Jupyter**, **SQLite**, **Spyder**, **Trello**  
-- Industry Knowledge: **Data Science**, **Data Analysis**, **Statistics**, **Web Development**
-- R Packages/Modules: **shiny**, **shinyWidgets**, **blogdown**, **tidyverse**, **crosstalk**, **DT**, **htmltools**, **plotly**, **leaflet**, **knitr**, **reactable**  
-- Other Skills: **Regular Expressions**, **Data Wrangling**, **Data Visualization**, **Unit Testing**, **Package Development**, **Exploratory Data Analysis**, **Data Validation**
-- Soft skills: **Analytical Skills**, **Critical Thinking**, **Teamwork**, **Communication**
+<ul>
+<li><b>Programming</b>: R, Python, SQL, Go, HTML</li>
+<li><b>Tools/Technologies</b>: R Shiny, R Markdown, Git, RStudio, Jupyter, SQLite, Spyder, Trello</li>
+<li><b>Industry Knowledge</b>: Data Science, Data Analysis, Statistics, Web Development</li>
+<li><b>R Packages/Modules</b>: shiny, shinyWidgets, blogdown, tidyverse, crosstalk, DT, htmltools, plotly, leaflet, knitr, reactable</li>
+<li><b>Other Skills</b>: Regular Expressions, Data Wrangling, Data Visualization, Unit Testing, Package Development, Exploratory Data Analysis, Data Validation</li>
+<li><b>Soft skills</b>: Analytical Skills, Critical Thinking, Teamwork, Communication</li>
+</ul>
 
 <h3><u span style = 'color: #005090'>EDUCATION</u></h3>
 
