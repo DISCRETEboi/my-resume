@@ -1,10 +1,10 @@
 <h1><center style = 'color: #005090'>ABDUL-MATEEN QAMARDEEN</center></h1>
 
 <div style="text-align:center">
-+2347049986998 &bull
-<a href="mailto:abdulmateen.a.q@gmail.com">abdulmateen.a.q@gmail.com</a> &bull
-<a href="https://www.linkedin.com/in/abdulmateenqamardeen/">LinkedIn</a> &bull
-<a href="https://github.com/DISCRETEboi/">Github</a> &bull
++2347049986998 &#x2022
+<a href="mailto:abdulmateen.a.q@gmail.com">abdulmateen.a.q@gmail.com</a> &#x2022
+<a href="https://www.linkedin.com/in/abdulmateenqamardeen/">LinkedIn</a> &#x2022
+<a href="https://github.com/DISCRETEboi/">Github</a> &#x2022
 Lagos, Nigeria
 </div>
 
@@ -47,8 +47,11 @@ Proficient R Developer with extensive experience in implementing data-centric so
 
 <h3><u span style = 'color: #005090'>EDUCATION</u></h3>
 
-**BSc. in Architecture**  
+<div>
+<b>BSc. in Architecture</b>
+&#x2022
 Obafemi Awolowo University, Ile-Ife, Nigeria
+</div>
 
 <h3><u span style = 'color: #005090'>CERTIFICATIONS</u></h3>
 
