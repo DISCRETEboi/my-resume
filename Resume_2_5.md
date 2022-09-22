@@ -37,30 +37,21 @@ Proficient Backend Engineer with extensive experience developing server-side app
 <h3><u style = 'color:#005090'>INDUSTRY EXPERIENCE (FREELANCE)</u></h3>
  
 <b>REDEVELOPMENT OF THE PROGNOSIS TOOL OF A BETTING PLATFORM</b> [[Github]](https://github.com/DISCRETEboi/WIS_test)  
-A betting platform [https://www.thepunterspage.com/kickform/](https://www.thepunterspage.com/kickform/) owned by Web International Services [https://www.wis-ltd.net/](https://www.wis-ltd.net/) required some re-engineering of its backend application. The issue was with the machine learning algorithm being improperly implemented - the betting odds being calculated were not as expected. I corrected the necessary errors in the source code written in R, and the application was giving out the expected results again.
+A [betting platform](https://www.thepunterspage.com/kickform/) owned by [Web International Services](https://www.wis-ltd.net/) required some re-engineering of its backend application. The issue was with the machine learning algorithm being improperly implemented - the betting odds being calculated were not as expected. I corrected the necessary errors in the source code written in R, and the application was giving out the expected results again.
 
 <b>DIAGNOSIS AND REDESIGN OF A SLOW RUNNING SERVER APPLICATION</b>
-[[Github]]()
+[[Github]](Link-to-be-updated)  
+A clinical monitoring application, owned by AstraZeneca and developed using R, takes a long time to start. The task requirement to optimize the loading time of the application. I reverse-engineered the source code and redesigned the data storage system, keeping the interface intact. The application became about 5 times faster.
 
-<b>R Developer</b>
-<span style='float:right;font-style:italic'>Feb. 2021 - Present</span>
+<h3><u span style = 'color: #005090'>PROJECTS (PERSONAL)</u></h3>
 
-- Developed R packages from sparse scripts and documentation files.
-- Re-developed slow-running R shiny applications by optimizing the backend design of the application (achieved an estimated 4x increase in performance).
-- Developed R Markdown documents to generate web page prototypes, rich in dynamic features such as Shiny UI elements & add-ons like reactable, datatable, crosstalk, htmltools.
-- Wrote R scripts to automate information extraction from large R codebases e.g. SQL queries extraction from commands in R scripts.
-- Developed unit tests for existing R packages.
-- Implemented the use of Git & GitHub for continuous integration & delivery.
-- Developed multiple data analysis reports, presented in R Markdown.
-  
-<b>QA Analyst & Website Developer</b>
-<span style='float:right;font-style:italic'>Feb. 2021 - Jun. 2021</span>
- 
-- Planned and devised cohesive test plans for a database pipeline using the R programming language.
-- Maintained database integrity by continuously checking for correspondence between the database and the original data source.
-- Configured Hugo static website generator and blogdown in the R programming environment for a documentation website framework.
-- Developed R Markdown & HTML documents for the pages of the website.
-- Deployed the website to Netlify for availability on the web.
+<b>DEVELOPMENT OF APPLICATION WHICH PRODUCES</b>
+
+<b>RESUME BUILDER WEBSITE DEVELOPMENT USING R SHINY BASED FRAMEWORK</b> [[Github]](https://github.com/DISCRETEboi/resume_guide)  
+bbb  
+Skills utilized - R Shiny, R Markdown, UI/UX design, Web development
+
+
 
 <h3><u span style = 'color: #005090'>SKILLS</u></h3>
 
@@ -72,11 +63,6 @@ A betting platform [https://www.thepunterspage.com/kickform/](https://www.thepun
 <li><b>Other Skills</b>: Regular Expressions, Data Wrangling, Data Visualization, Unit Testing, Package Development, Exploratory Data Analysis, Data Validation</li>
 <li><b>Soft skills</b>: Analytical Skills, Critical Thinking, Teamwork, Communication</li>
 </ul>
-
-<h3><u span style = 'color: #005090'>PROJECTS (PERSONAL)</u></h3>
-
-**RESUME BUILDER WEBSITE DEVELOPMENT USING R SHINY BASED FRAMEWORK** [[Github]](https://github.com/DISCRETEboi/resume_guide)  
-<span style='padding-left:20px'>Skills utilized - R Shiny, R Markdown, UI/UX design, Web development</span>
 
 <h3><u span style = 'color: #005090'>EDUCATION</u></h3>
 
