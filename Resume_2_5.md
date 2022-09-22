@@ -1,16 +1,45 @@
-<h1><center style = 'color: #005090'>ABDUL-MATEEN QAMARDEEN</center></h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<div style="text-align:center">
-+2347049986998 &#x2022
-<a href="mailto:abdulmateen.a.q@gmail.com">abdulmateen.a.q@gmail.com</a> &#x2022
-<a href="https://www.linkedin.com/in/abdulmateenqamardeen/">LinkedIn</a> &#x2022
-<a href="https://github.com/DISCRETEboi/">Github</a> &#x2022
+<div>
+<div style = "background-color:#3C5769; color:white; margin:-20px">
+<h1>
+<center>
+<span style = 'color: white'>ABDUL-MATEEN QAMARDEEN</span>
+<span style = 'color: white'> &#x2022 </span>
+<span style = 'font-size: 65%;color:white'>Sr. Backend Engineer</span>
+</center/>
+</h1>
+
+<!-- <hr style = "background-color:gray;border-width:0;height:2px"> -->
+
+<div style="text-align:center; margin-top:-10px; color:white">
++2347049986998
+<span style = 'color: white; font-size:20px'> &#x2022 </span>
+<a href="mailto:abdulmateen.a.q@gmail.com" style='color:white'>abdulmateen.a.q@gmail.com</a>
+<i style="font-size:10px" class="fa">&#xf08e</i>
+<span style = 'color: white; font-size:20px'> &#x2022 </span>
+<a href="https://www.linkedin.com/in/abdulmateenqamardeen/" style='color:white'>LinkedIn</a>
+<i style="font-size:10px" class="fa">&#xf08e</i>
+<span style = 'color: white; font-size:20px'> &#x2022 </span>
+<a href="https://github.com/DISCRETEboi/" style='color:white'>Github</a>
+<i style="font-size:10px" class="fa">&#xf08e</i>
+<span style = 'color: white; font-size:20px'> &#x2022 </span>
 Lagos, Nigeria
 </div>
+</div>
+
+<br />
 
 <h3><u span style = 'color: #005090'>SUMMARY</u></h3>
 
 Proficient R Developer with extensive experience in implementing data-centric software solutions in the R programming environment. Proven ability of developing R Shiny applications, R packages, R Markdown reports and R automation scripts. Sound understanding of statistical and analytical techniques useful for rational decision making. Highly organized, motivated and diligent. Experienced in using project management tools like Git, Trello. Enthusiastic about contributing to team success through hard work, attention to detail and excellent organizational skills.
+
+<h3><u span style = 'color: #005090'>PROJECTS (PERSONAL)</u></h3>
+
+**RESUME BUILDER WEBSITE DEVELOPMENT USING R SHINY BASED FRAMEWORK** [[Github]](https://github.com/DISCRETEboi/resume_guide)
+
+<span style='padding-left:20px'>Skills utilized - R Shiny, R Markdown, UI/UX design, Web development</span>
+
 
 <h3><u style = 'color:#005090'>INDUSTRY EXPERIENCE (FREELANCE)</u></h3>
   
@@ -61,8 +90,3 @@ Obafemi Awolowo University, Ile-Ife, Nigeria
 - Exploratory Data Analysis, The Johns Hopkins University - Jul, 2021 [[Verify]](https://www.coursera.org/account/accomplishments/verify/S84B68VZ5DZP?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
 - Data Science Maths Skills, Duke University - Mar, 2021 [[Verify]](https://www.coursera.org/account/accomplishments/verify/YJ8TDU33JGJ7?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
 
-<h3><u span style = 'color: #005090'>PERSONAL PROJECTS</u></h3>
-
-**RESUME BUILDER WEBSITE DEVELOPMENT USING R SHINY BASED FRAMEWORK** [[Github]](https://github.com/DISCRETEboi/resume_guide)
-
-<span style='padding-left:20px'>Skills utilized - R Shiny, R Markdown, UI/UX design, Web development</span>
