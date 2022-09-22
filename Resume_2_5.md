@@ -36,7 +36,11 @@ Proficient Backend Engineer with extensive experience developing server-side app
 
 <h3><u style = 'color:#005090'>INDUSTRY EXPERIENCE (FREELANCE)</u></h3>
  
-<b>c</b>
+<b>REDEVELOPMENT OF THE PROGNOSIS TOOL OF A BETTING PLATFORM</b> [[Github]](https://github.com/DISCRETEboi/WIS_test)  
+A betting platform [https://www.thepunterspage.com/kickform/](https://www.thepunterspage.com/kickform/) owned by Web International Services [https://www.wis-ltd.net/](https://www.wis-ltd.net/) required some re-engineering of its backend application. The issue was with the machine learning algorithm being improperly implemented - the betting odds being calculated were not as expected. I corrected the necessary errors in the source code written in R, and the application was giving out the expected results again.
+
+<b>DIAGNOSIS AND REDESIGN OF A SLOW RUNNING SERVER APPLICATION</b>
+[[Github]]()
 
 <b>R Developer</b>
 <span style='float:right;font-style:italic'>Feb. 2021 - Present</span>
