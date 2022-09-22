@@ -32,17 +32,12 @@ Lagos, Nigeria
 
 <h3><u span style = 'color: #005090'>SUMMARY</u></h3>
 
-Proficient R Developer with extensive experience in implementing data-centric software solutions in the R programming environment. Proven ability of developing R Shiny applications, R packages, R Markdown reports and R automation scripts. Sound understanding of statistical and analytical techniques useful for rational decision making. Highly organized, motivated and diligent. Experienced in using project management tools like Git, Trello. Enthusiastic about contributing to team success through hard work, attention to detail and excellent organizational skills.
-
-<h3><u span style = 'color: #005090'>PROJECTS (PERSONAL)</u></h3>
-
-**RESUME BUILDER WEBSITE DEVELOPMENT USING R SHINY BASED FRAMEWORK** [[Github]](https://github.com/DISCRETEboi/resume_guide)
-
-<span style='padding-left:20px'>Skills utilized - R Shiny, R Markdown, UI/UX design, Web development</span>
-
+Proficient Backend Engineer with extensive experience developing server-side applications in Golang and R. Proven ability of developing RESTful web services and distributed systems. Highly organized, motivated and diligent. Experienced in using project management tools like Git, Trello. Enthusiastic about contributing to team success through hard work, attention to detail and excellent communication skills.
 
 <h3><u style = 'color:#005090'>INDUSTRY EXPERIENCE (FREELANCE)</u></h3>
-  
+ 
+<b>c</b>
+
 <b>R Developer</b>
 <span style='float:right;font-style:italic'>Feb. 2021 - Present</span>
 
@@ -73,6 +68,11 @@ Proficient R Developer with extensive experience in implementing data-centric so
 <li><b>Other Skills</b>: Regular Expressions, Data Wrangling, Data Visualization, Unit Testing, Package Development, Exploratory Data Analysis, Data Validation</li>
 <li><b>Soft skills</b>: Analytical Skills, Critical Thinking, Teamwork, Communication</li>
 </ul>
+
+<h3><u span style = 'color: #005090'>PROJECTS (PERSONAL)</u></h3>
+
+**RESUME BUILDER WEBSITE DEVELOPMENT USING R SHINY BASED FRAMEWORK** [[Github]](https://github.com/DISCRETEboi/resume_guide)  
+<span style='padding-left:20px'>Skills utilized - R Shiny, R Markdown, UI/UX design, Web development</span>
 
 <h3><u span style = 'color: #005090'>EDUCATION</u></h3>
 
