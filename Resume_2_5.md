@@ -39,13 +39,21 @@ Proficient Backend Engineer with extensive experience developing server-side app
 <b>REDEVELOPMENT OF THE PROGNOSIS TOOL OF A BETTING PLATFORM</b> [[Github]](https://github.com/DISCRETEboi/WIS_test)  
 A [betting platform](https://www.thepunterspage.com/kickform/) owned by [Web International Services](https://www.wis-ltd.net/) required some re-engineering of its backend application. The issue was with the machine learning algorithm being improperly implemented - the betting odds being calculated were not as expected. I corrected the necessary errors in the source code written in R, and the application was giving out the expected results again.
 
-<b>DIAGNOSIS AND REDESIGN OF A SLOW RUNNING SERVER APPLICATION</b>
+<b>DIAGNOSIS AND REDESIGN OF SOME SLOW RUNNING SERVER APPLICATION</b>
 [[Github]](Link-to-be-updated)  
-A clinical monitoring application, owned by AstraZeneca and developed using R, takes a long time to start. The task requirement to optimize the loading time of the application. I reverse-engineered the source code and redesigned the data storage system, keeping the interface intact. The application became about 5 times faster.
+A number of clinical monitoring applications, owned by AstraZeneca and developed using R, were taking a long time to start. The task requirement was to optimize the loading time of the applications. I reverse-engineered the source codes and redesigned the data storage systems, keeping all the interface intact. The application became about 5 times faster after the redesign.
 
 <h3><u span style = 'color: #005090'>PROJECTS (PERSONAL)</u></h3>
 
-<b>DEVELOPMENT OF APPLICATION WHICH PRODUCES</b>
+<b>APPLICATION WHICH PRODUCES A PDF SUMMARY OF ALL POSTS ON A NAIRALAND THREAD</b>
+[[Github]](https://github.com/DISCRETEboi/nairaland-go)  
+The application [*nairalandgo*](https://github.com/DISCRETEboi/nairaland-go) built with Golang takes in a Nairaland thread url and produces a PDF document containing the whole posts in thread, along with the likes, usernames etc. The user interacts with the application through the command line.  
+Skills utilized:- **Golang**, **Web scraping**, **UI design**, **HTML templating**
+
+<b>API TO THE <i>NAIRALANDGO</i> APPLICATION</b>
+[[Github]](https://github.com/DISCRETEboi/nairaland-go-api)  
+An [API](https://github.com/DISCRETEboi/nairaland-go-api) was built to enable public access to the *nairalandgo* application. The API was designed to accept an HTTP POST request containing the thread link as JSON data, and returns as response the base64 encoding of the PDF document contents. The *nairalandgo* application was hosted on a linux server, which was operated remotely using SSH.  
+Skills utilized:- 
 
 <b>RESUME BUILDER WEBSITE DEVELOPMENT USING R SHINY BASED FRAMEWORK</b> [[Github]](https://github.com/DISCRETEboi/resume_guide)  
 bbb  
