@@ -22,7 +22,6 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 =============================================================================*/
 
 body {
-  /*font-family: Helvetica, arial, freesans, clean, sans-serif;*/
   font-family: corbel;
   font-size: 15px;
   line-height: 1.6;
@@ -299,7 +298,7 @@ img {
 <center>
 <span style = 'color: white'>ABDUL-MATEEN QAMARDEEN</span>
 <span style = 'color: white'> &#x2022 </span>
-<span style = 'font-size: 65%;color:white'>Sr. Backend Engineer</span>
+<span style = 'font-size: 65%;color:white'>Backend Engineer</span>
 </center/>
 </h1>
 
@@ -324,23 +323,31 @@ Lagos, Nigeria
 <h3><u span style = 'color: #005090'>SUMMARY</u></h3>
 <p>Proficient Backend Engineer with extensive experience developing server-side applications in Golang and R. Proven ability of developing RESTful web services and distributed systems. Highly organized, motivated and diligent. Experienced in using project management tools like Git, Trello. Enthusiastic about contributing to team success through hard work, attention to detail and excellent communication skills.</p>
 <h3><u style = 'color:#005090'>INDUSTRY EXPERIENCE (FREELANCE)</u></h3>
-<p><b>REDEVELOPMENT OF THE PROGNOSIS TOOL OF A BETTING PLATFORM</b> <a href="https://github.com/DISCRETEboi/WIS_test">[Github]</a><br />
+<p><b>REDEVELOPMENT OF THE PROGNOSIS TOOL OF A BETTING PLATFORM</b> <a href="https://github.com/DISCRETEboi/wis-kickform">[Github]</a><br />
 A <a href="https://www.thepunterspage.com/kickform/">betting platform</a> owned by <a href="https://www.wis-ltd.net/">Web International Services</a> required some re-engineering of its backend application. The issue was with the machine learning algorithm being improperly implemented - the betting odds being calculated were not as expected. I corrected the necessary errors in the source code written in R, and the application was giving out the expected results again.</p>
-<p><b>DIAGNOSIS AND REDESIGN OF A SLOW RUNNING SERVER APPLICATION</b>
-<a href="Link-to-be-updated">[Github]</a><br />
-A clinical monitoring application, owned by AstraZeneca and developed using R, takes a long time to start. The task requirement to optimize the loading time of the application. I reverse-engineered the source code and redesigned the data storage system, keeping the interface intact. The application became about 5 times faster.</p>
+<p><b>DIAGNOSIS AND REDESIGN OF SOME SLOW RUNNING SERVER APPLICATION</b>
+<a href="https://github.com/DISCRETEboi/app-optimize">[Github]</a><br />
+A number of clinical monitoring applications, owned by <a href="https://www.astrazeneca.com/">AstraZeneca</a> and developed using R, were taking a long time to start. The task requirement was to optimize the startup time of the applications. I reverse-engineered the source codes and redesigned the data storage systems, keeping all the interface intact. The applications had about 5 times decrease in startup time after the redesigns.</p>
 <h3><u span style = 'color: #005090'>PROJECTS (PERSONAL)</u></h3>
-<p><b>DEVELOPMENT OF APPLICATION WHICH PRODUCES</b></p>
-<p><b>RESUME BUILDER WEBSITE DEVELOPMENT USING R SHINY BASED FRAMEWORK</b> <a href="https://github.com/DISCRETEboi/resume_guide">[Github]</a><br />
-bbb<br />
-Skills utilized - R Shiny, R Markdown, UI/UX design, Web development</p>
+<p><b>APPLICATION WHICH PRODUCES A PDF SUMMARY OF ALL POSTS ON A NAIRALAND THREAD</b>
+<a href="https://github.com/DISCRETEboi/nairaland-go">[Github]</a><br />
+The application <a href="https://github.com/DISCRETEboi/nairaland-go"><em>nairalandgo</em></a> built with Golang takes in a Nairaland thread url and produces a PDF document containing the whole posts in thread, along with the number of likes, usernames etc. The user interacts with the application through the command line.<br />
+Skills utilized:- <strong>Golang</strong>, <strong>Web scraping</strong>, <strong>UI design</strong>, <strong>HTML templating</strong></p>
+<p><b>API TO THE <i>NAIRALANDGO</i> APPLICATION</b>
+<a href="https://github.com/DISCRETEboi/nairaland-go-api">[Github]</a><br />
+An <a href="https://github.com/DISCRETEboi/nairaland-go-api">API</a> was built to enable public access to the <a href="https://github.com/DISCRETEboi/nairaland-go"><em>nairalandgo</em></a> application. The API, developed in Go, was designed to accept an HTTP POST request containing the thread link as JSON data, and returns as response the base64 encoding of the PDF document contents. The <em>nairalandgo</em> application was hosted on a linux server, which was operated remotely using SSH.<br />
+Skills utilized:- <strong>Golang</strong>, <strong>REST API</strong>, <strong>SSH</strong>, <strong>SFTP</strong>, <strong>Linux</strong></p>
+<p><b>APPLICATION WHICH COLLECTS NAIRALAND USERS DATA FROM THEIR PROFILE PAGES</b>
+<a href="https://github.com/DISCRETEboi/nairaland-data-scrape">[Github]</a><br />
+The application, built with Golang, crawls the <a href="https://www.nairaland.com/">Nairaland website</a>, collecting the users' data from their profile pages. The data collected include username, profile link, location, last seen etc. All the data collected are then organized and stored in csv files.<br />
+Skills utilized:- <strong>Golang</strong>, <strong>Web scraping</strong>, <strong>Regular expressions</strong></p>
 <h3><u span style = 'color: #005090'>SKILLS</u></h3>
 <ul>
-<li><b>Programming</b>: R, Python, SQL, Go, HTML</li>
-<li><b>Tools/Technologies</b>: R Shiny, R Markdown, Git, RStudio, Jupyter, SQLite, Spyder, Trello</li>
-<li><b>Industry Knowledge</b>: Data Science, Data Analysis, Statistics, Web Development</li>
-<li><b>R Packages/Modules</b>: shiny, shinyWidgets, blogdown, tidyverse, crosstalk, DT, htmltools, plotly, leaflet, knitr, reactable</li>
-<li><b>Other Skills</b>: Regular Expressions, Data Wrangling, Data Visualization, Unit Testing, Package Development, Exploratory Data Analysis, Data Validation</li>
+<li><b>Programming</b>: Golang, R, Python, SQL, HTML</li>
+<li><b>Tools/Technologies</b>: Linux Bash, Git, Sublime Text, SQLite, RStudio, Spyder, Trello</li>
+<li><b>Industry Knowledge</b>: Web Scraping, REST APIs, Databases, Data Science, Web Development, UI design</li>
+<li><b>Go Tools</b>: Goroutine, Go Channel, Godoc</li>
+<li><b>Other Skills</b>: Regular Expressions, Unit Testing, Data Validation</li>
 <li><b>Soft skills</b>: Analytical Skills, Critical Thinking, Teamwork, Communication</li>
 </ul>
 <h3><u span style = 'color: #005090'>EDUCATION</u></h3>
@@ -351,11 +358,8 @@ Obafemi Awolowo University, Ile-Ife, Nigeria
 </div>
 <h3><u span style = 'color: #005090'>CERTIFICATIONS</u></h3>
 <ul>
-<li>R Programming, The Johns Hopkins University - Dec, 2020 <a href="https://www.coursera.org/account/accomplishments/verify/E2AF2R632Z2S?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse">[Verify]</a></li>
-<li>R (Intermediate), HackerRank - Jul, 2021 <a href="https://www.hackerrank.com/certificates/f8006c3f3635">[Verify]</a></li>
 <li>SQL for Data Science, University of California, Davis - Jan, 2021 <a href="https://www.coursera.org/account/accomplishments/verify/D6XQBUEZ4YR6?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse">[Verify]</a></li>
-<li>Exploratory Data Analysis, The Johns Hopkins University - Jul, 2021 <a href="https://www.coursera.org/account/accomplishments/verify/S84B68VZ5DZP?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse">[Verify]</a></li>
-<li>Data Science Maths Skills, Duke University - Mar, 2021 <a href="https://www.coursera.org/account/accomplishments/verify/YJ8TDU33JGJ7?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse">[Verify]</a></li>
+<li>R (Intermediate), HackerRank - Jul, 2021 <a href="https://www.hackerrank.com/certificates/f8006c3f3635">[Verify]</a></li>
 </ul>
 
 </body>
