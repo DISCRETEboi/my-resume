@@ -64,10 +64,10 @@ Skills utilized:- **Golang**, **Web scraping**, **Regular expressions**
 
 <ul>
 <li><b>Programming</b>: Golang, R, Python, SQL, HTML</li>
-<li><b>Tools/Technologies</b>: Linux Bash, Git, Sublime Text, SQLite, RStudio, Spyder, Trello</li>
-<li><b>Industry Knowledge</b>: Web Scraping, REST APIs, Databases, Data Science, Web Development, UI design</li>
-<li><b>Go Tools</b>: Goroutine, Go Channel, Godoc</li>
-<li><b>Other Skills</b>: Regular Expressions, Unit Testing, Data Validation</li>
+<li><b>Tools/Technologies</b>: Linux Bash, Git, Sublime Text, SQLite, Markdown, RStudio, Spyder, Trello</li>
+<li><b>Industry Knowledge</b>: REST APIs, Databases, Web Development, Data Science, UI design</li>
+<li><b>Go Tools</b>: Goroutines, Go Channels, Godoc</li>
+<li><b>Other Skills</b>: Web Scraping, Regular Expressions, Unit Testing, Data Validation</li>
 <li><b>Soft skills</b>: Analytical Skills, Critical Thinking, Teamwork, Communication</li>
 </ul>
 
