@@ -6,14 +6,14 @@
 <center>
 <span style = 'color: white'>ABDUL-MATEEN QAMARDEEN</span>
 <span style = 'color: white'> &#x2022 </span>
-<span style = 'font-size: 65%;color:white'>Backend Engineer</span>
+<span style = 'font-size: 65%;color:white'>R Developer</span>
 </center/>
 </h1>
 
 <!-- <hr style = "background-color:gray;border-width:0;height:2px"> -->
 
 <div style="text-align:center; margin-top:-10px; color:white">
-+2347049986998
++2348154627625
 <span style = 'color: white; font-size:20px'> &#x2022 </span>
 <a href="mailto:abdulmateen.a.q@gmail.com" style='color:white'>abdulmateen.a.q@gmail.com</a>
 <i style="font-size:10px" class="fa">&#xf08e</i>
@@ -32,22 +32,26 @@ Lagos, Nigeria
 
 <h3><u span style = 'color: #005090'>SUMMARY</u></h3>
 
-Proficient Backend Engineer with extensive experience developing server-side applications in Golang and R. Proven ability of developing RESTful web services and distributed systems. Highly organized, motivated and diligent. Experienced in using project management tools like Git, Trello. Enthusiastic about contributing to team success through hard work, attention to detail and excellent communication skills.
+Proficient R Developer with extensive experience building data products in the R programming environment. Proven ability of developing R Shiny applications, R packages, R Markdown reports and R automation scripts. Sound understanding of statistical and analytical techniques useful for rational decision making. Highly organized, motivated and diligent. Experienced in using project management tools like Git, Trello. Enthusiastic about contributing to team success through hard work, attention to detail and excellent communication skills.
 
 <h3><u style = 'color:#005090'>INDUSTRY EXPERIENCE (FREELANCE)</u></h3>
- 
-<b>REDEVELOPMENT OF THE PROGNOSIS TOOL OF A BETTING PLATFORM</b> [[Github]](https://github.com/DISCRETEboi/wis-kickform)  
-A [betting platform](https://www.thepunterspage.com/kickform/) owned by [Web International Services](https://www.wis-ltd.net/) required some re-engineering of its backend application. The issue was with the machine learning algorithm being improperly implemented - the betting odds being calculated were not as expected. I corrected the necessary errors in the source code written in R, and the application was giving out the expected results again.
 
-<b>DIAGNOSIS AND REDESIGN OF SOME SLOW RUNNING SERVER APPLICATION</b>
-[[Github]](https://github.com/DISCRETEboi/app-optimize)  
-A number of clinical monitoring applications, owned by [AstraZeneca](https://www.astrazeneca.com/) and developed using R, were taking a long time to start. The task requirement was to optimize the startup time of the applications. I reverse-engineered the source codes and redesigned the data storage systems, keeping all the interface intact. The applications had about 5 times decrease in startup time after the redesigns.
+**CLIENT:** [**Web International Services, Malta**](https://www.wis-ltd.net/)  
+A [sport betting platform](https://www.thepunterspage.com/kickform/) owned by Web International Services required some re-engineering of one of its back-end application, which generates all prognosis. The issue was with the machine learning algorithm being wrongly implemented. I corrected the necessary errors in the source code written in R, and the application was giving out the expected results again.
+
+**CLIENT:** [**AstraZeneca, UK**](https://www.astrazeneca.com/)  
+I worked on a couple of tasks which include:  
+- Development of R packages from sparse scripts and documentation files  
+- Re-development of slow-running R shiny applications by optimizing the back-end design of the application (achieved an average 4x increase in performance).  
+- Development of R Markdown sources to generate web page prototypes, rich in dynamic features such as Shiny UI elements
+- Writing R scripts to automate information extraction from large R codebases e.g. SQL queries extraction from commands in R scripts  
+- Development of rigorous unit tests for existing R packages  
 
 <h3><u span style = 'color: #005090'>PROJECTS (PERSONAL)</u></h3>
 
-<b>APPLICATION WHICH PRODUCES A PDF SUMMARY OF ALL POSTS ON A NAIRALAND THREAD</b>
+<b>APPLICATION WHICH PRODUCES A PDF SUMMARY OF ALL POSTS ON A THREAD OF AN ONLINE FORUM, NAIRALAND</b>
 [[Github]](https://github.com/DISCRETEboi/nairaland-go)  
-The application [*nairalandgo*](https://github.com/DISCRETEboi/nairaland-go) built with Golang takes in a Nairaland thread url and produces a PDF document containing the whole posts in thread, along with the number of likes, usernames etc. The user interacts with the application through the command line.  
+The application [*nairalandgo*](https://github.com/DISCRETEboi/nairaland-go) built with Golang takes in a Nairaland thread url, which could contain hundreds of webpages, and produces a PDF document containing the whole posts in thread, along with the number of likes, usernames etc. The user interacts with the application through the command line.  
 Skills utilized:- **Golang**, **Web scraping**, **UI design**, **HTML templating**
 
 <b>API TO THE <i>NAIRALANDGO</i> APPLICATION</b>
