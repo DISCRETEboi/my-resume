@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume_2_6</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: corbel;
+  font-size: 13px;
+  line-height: 1.2;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<p><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></p>
+<p><div></p>
+<div style = "background-color:#3C5769; color:white; margin:-20px">
+<h1>
+<center>
+<span style = 'color: white'>ABDUL-MATEEN QAMARDEEN</span>
+<span style = 'color: white'> &#x2022 </span>
+<span style = 'font-size: 65%;color:white'>Data Developer</span>
+</center/>
+</h1>
+
+<!-- <hr style = "background-color:gray;border-width:0;height:2px"> -->
+
+<div style="text-align:center; margin-top:-10px; color:white">
++2348154627625
+<span style = 'color: white; font-size:20px'> &#x2022 </span>
+<a href="mailto:abdulmateen.a.q@gmail.com" style='color:white'>abdulmateen.a.q@gmail.com</a>
+<i style="font-size:10px" class="fa">&#xf08e</i>
+<span style = 'color: white; font-size:20px'> &#x2022 </span>
+<a href="https://www.linkedin.com/in/abdulmateenqamardeen/" style='color:white'>LinkedIn</a>
+<i style="font-size:10px" class="fa">&#xf08e</i>
+<span style = 'color: white; font-size:20px'> &#x2022 </span>
+<a href="https://github.com/DISCRETEboi/" style='color:white'>Github</a>
+<i style="font-size:10px" class="fa">&#xf08e</i>
+<span style = 'color: white; font-size:20px'> &#x2022 </span>
+Lagos, Nigeria
+</div>
+</div>
+<p><br /></p>
+<h3><u span style = 'color: #005090'>SUMMARY</u></h3>
+<p>Data Developer with extensive experience sourcing and collecting data for insights generation. Proficient in the use of data and analytics tools like R, Python, SQL, Microsoft Excel. Familiarity with the finance and insurance industry. Sound understanding of Statistics, Software Engineering and Data Analysis. Highly organized, motivated and diligent. Experienced in using project management
+tools like Git, Trello. Ever enthusiastic about contributing to team success through hard work, attention to detail and excellent communication skills.</p>
+<h3><u style = 'color:#005090'>INDUSTRY EXPERIENCE (CORPORATE)</u></h3>
+<p><a href="https://www.octamile.com/"><strong>Octamile, Nigeria</strong></a><br />
+<strong>Backend Engineer (Data Lead)</strong><br />
+<em>October, 2022 - March, 2023</em></p>
+<ul>
+<li>Sourced for comprehensive data on vehicle brands worldwide using web scraping tools  
+</li>
+<li>Created automation system for data injection and retrieval from the databases  
+</li>
+<li>Created API system for data sharing with financial partners  
+</li>
+<li>Educated other team members on proper data management practices</li>
+<li>Maintained the data infrastructure of all software products  
+</li>
+</ul>
+<h3><u style = 'color:#005090'>INDUSTRY EXPERIENCE (FREELANCE)</u></h3>
+<p><a href="https://www.wis-ltd.net/"><strong>Web International Services, Malta</strong></a><br />
+<strong>R/Data Developer</strong><br />
+<em>April, 2022 - June, 2022</em>  
+</p>
+<ul>
+<li>Redesigned the data retrieval system of the core <a href="https://www.thepunterspage.com/kickform/">sports prognosis application</a>  
+</li>
+<li>Educated other data team members on proper data pipeline automation practices  
+</li>
+</ul>
+<p><a href="https://www.astrazeneca.com/"><strong>AstraZeneca, UK</strong></a><br />
+<strong>R/Data Developer</strong><br />
+<em>May, 2021 - December, 2021</em></p>
+<ul>
+<li>Developed R packages to be used by data applications  
+</li>
+<li>Redevelopment of slow-running R data applications by optimizing their backend data collection design (achieved an average 4x increase in performance)  
+</li>
+<li>Presented comprehensive analysis of clinical trial datasets  
+</li>
+<li>Wrote R scripts to automate data extraction from large codebases e.g. SQL queries extraction from R scripts  
+</li>
+</ul>
+<h3><u span style = 'color: #005090'>SKILLS</u></h3>
+<ul>
+<li><b>Programming</b>: R, Python, SQL, Golang, HTML</li>
+<li><b>Tools/Technologies</b>: MS Excel, Linux, Git, PostgreSQL, Trello</li>
+<li><b>Industry Knowledge</b>: Data Science, Data Analysis, Statistics, REST APIs, Databases, Web Development, UI Design, Concurrent Computing</li>
+<li><b>Other Skills</b>: Web Scraping, Regular Expressions, Data Wrangling, Data Visualization, Data Validation, Unit Testing, Package Development</li>
+<li><b>Soft skills</b>: Analytical Skills, Critical Thinking, Teamwork, Communication</li>
+</ul>
+<h3><u span style = 'color: #005090'>PROJECTS (PERSONAL)</u></h3>
+<p><b>WHATSAPP CHATS ANALYZER WEB APPLICATION</b>
+<a href="https://mateen-a-q.shinyapps.io/whatsapp-chats-breakdown/">[Live app]</a><br />
+Skills utilized: <strong>R</strong>, <strong>Data Visualization</strong></p>
+<p><b>APPLICATION WHICH COLLECTS NAIRALAND'S USESRS DATA (WITH WEBSITE INTERFACE &amp; API)</b>
+<a href="https://github.com/DISCRETEboi/nairaland-data-scrape">[Github]</a><br />
+Skills utilized:- <strong>Golang</strong>, <strong>Web scraping</strong>, <strong>R</strong>, <strong>Regular expressions</strong>, <strong>UI design</strong>, <strong>REST API</strong>, <strong>SSH</strong>, <strong>SFTP</strong>, <strong>Linux</strong>, <strong>Bash</strong></p>
+<h3><u span style = 'color: #005090'>EDUCATION</u></h3>
+<div>
+<b>BSc. in Architecture</b>
+&#x2022
+Obafemi Awolowo University, Ile-Ife, Nigeria
+</div>
+<h3><u span style = 'color: #005090'>CERTIFICATIONS</u></h3>
+<ul>
+<li>R Programming, The Johns Hopkins University - Dec, 2020 <a href="https://www.coursera.org/account/accomplishments/verify/E2AF2R632Z2S?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse">[Verify]</a></li>
+<li>R Certification, HackerRank - Jul, 2021 <a href="https://www.hackerrank.com/certificates/f8006c3f3635">[Verify]</a></li>
+<li>SQL for Data Science, University of California, Davis - Jan, 2021 <a href="https://www.coursera.org/account/accomplishments/verify/D6XQBUEZ4YR6?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse">[Verify]</a></li>
+<li>Exploratory Data Analysis, The Johns Hopkins University - Jul, 2021 <a href="https://www.coursera.org/account/accomplishments/verify/S84B68VZ5DZP?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse">[Verify]</a></li>
+</ul>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
